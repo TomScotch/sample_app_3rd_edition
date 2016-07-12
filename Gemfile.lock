@@ -145,7 +145,7 @@ GEM
     fog-profitbricks (0.0.5)
       fog-core
       fog-xml
-      nokogiri
+      nokogiri (1.6.8)
     fog-radosgw (0.0.4)
       fog-core (>= 1.21.0)
       fog-json
